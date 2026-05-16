@@ -11,7 +11,7 @@ Thay vì các service phải gọi nhau thông qua địa chỉ IP và Port cố
 * **Tích hợp:** Làm việc trực tiếp với **API Gateway** để giúp định tuyến request từ người dùng đến đúng service cần thiết.
 
 ## 🛠 Tech Stack
-* **Ngôn ngữ:** Java 17
+* **Ngôn ngữ:** Java 21
 * **Framework:** Spring Boot 3.x
 * **Cloud Components:** Spring Cloud Netflix Eureka Server
 * **Quản lý thư viện:** Maven
